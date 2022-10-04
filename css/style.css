@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#my-header {
+  background: red (55 255 0);
+  color: hsl(147deg 50% 87%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  color: white;
+}
